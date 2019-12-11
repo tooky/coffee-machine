@@ -3,7 +3,7 @@ Feature: Bad usage
     # **As a** lazy coffee user
     # **I can** ignore the message displayed by the machine
 
-  @priority-low
+  @pr;iority-low
   Scenario: grounds does not block coffee
     # You keep getting coffee even if the "Empty grounds" message is displayed. That said it's not a fantastic idea, you'll get ground everywhere when you'll decide to empty it.
     Given the coffee machine is started
