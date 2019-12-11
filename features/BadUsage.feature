@@ -1,4 +1,4 @@
-Faature: Bad usage
+Feature: Bad usage
     # **In order to** have coffee and let other people have to clean after me
     # **As a** lazy coffee user
     # **I can** ignore the message displayed by the machine
