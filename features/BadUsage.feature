@@ -1,3 +1,4 @@
+# language: fr
 Feature: Bad usage
     # **In order to** have coffee and let other people have to clean after me
     # **As a** lazy coffee user
